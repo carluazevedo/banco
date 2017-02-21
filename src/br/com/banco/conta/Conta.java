@@ -1,4 +1,4 @@
-package br.com.banco;
+package br.com.banco.conta;
 
 public abstract class Conta {
 

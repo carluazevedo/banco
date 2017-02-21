@@ -1,4 +1,6 @@
-package br.com.banco;
+package br.com.banco.conta;
+
+import br.com.banco.sistema.Tributavel;
 
 public class ContaCorrente extends Conta implements Tributavel {
 

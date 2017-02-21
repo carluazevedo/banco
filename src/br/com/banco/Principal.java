@@ -1,6 +1,7 @@
-package br.com.banco.principal;
+package br.com.banco;
 
-import br.com.banco.*;
+import br.com.banco.conta.*;
+import br.com.banco.sistema.*;
 
 public class Principal {
 

@@ -1,4 +1,4 @@
-package br.com.banco;
+package br.com.banco.sistema;
 
 public interface Tributavel {
 
